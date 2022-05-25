@@ -1,4 +1,4 @@
-import data.equiv.fin
+import data.equiv.fin.tuple.basic
 import data.finset.basic
 import logic.function.basic
 universes u u' v
